@@ -1,0 +1,2 @@
+Prefix plugins/ClusterPathways/example
+Plugin ClusterPathways inputfile parameters.txt outputfile clusterpathways.txt

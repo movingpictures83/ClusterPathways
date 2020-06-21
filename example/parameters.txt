@@ -1,0 +1,2 @@
+noafile	plugins/ClusterPathways/example/clusters.noa
+mapping	plugins/ClusterPathways/example/mapping.txt
