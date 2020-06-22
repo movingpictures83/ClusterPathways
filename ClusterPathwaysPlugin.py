@@ -1,4 +1,6 @@
 import sys
+import random
+random.seed(1234)
 
 class ClusterPathwaysPlugin:
    def input(self, inputfile):
@@ -8,7 +10,7 @@ class ClusterPathwaysPlugin:
          contents = line.strip().split('\t')
          self.parameters[contents[0]] = contents[1]
       self.noafile = open(self.parameters['noafile'], 'r')
-      self.pathwayfile = open(self.parameters['mapping'], 'r')
+      self.pathwayfile = open(self.parameters['pathways'], 'r')
 
    def run(self):
       pass
@@ -60,6 +62,10 @@ class ClusterPathwaysPlugin:
                            sameclusters[(elementi, elementj)] = set()
                         sameclusters[(elementi, elementj)].add(pathwayname)
       
+      for key in sameclusters:
+         sameclusters[key] = list(sameclusters[key])
+         sameclusters[key].sort()
+
       #print sameclusters
       outfile.write("IN SAME CLUSTER:"+"\n")
       for elementpair in sameclusters.keys():
