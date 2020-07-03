@@ -2,7 +2,8 @@
 # Language: Python
 # Input: TXT
 # Output: TXT
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: Pathway-Tools Database
 
 PluMA plugin to take a cluster of taxa and search reactions from the PathwayTools
 database (Karp et al, 2015) for taxa in the cluster.  It returns pathways in TXT format.
