@@ -1,0 +1,217 @@
+IN SAME CLUSTER:
+('Blautia.01', 'X.Ruminococcus.gauvreauiigroup.01') CLUSTER: 29 
+PATHWAYS:  folate transformations I  
+
+('Corynebacterium.02', 'Haemophilus.01') CLUSTER: 42 
+PATHWAYS:  L-lysine biosynthesis I  
+
+('Achromobacter.01', 'Microbacterium.01') CLUSTER: 36 
+PATHWAYS:  L-lysine biosynthesis I  
+
+('Staphylococcus.01', 'Streptomyces.01') CLUSTER: 4 
+PATHWAYS:  cholesterol degradation to androstenedione I (cholesterol oxidase)  
+ superpathway of L-lysine degradation  
+ superpathway of cholesterol degradation I (cholesterol oxidase)  
+
+('Lactobacillus.01', 'Micrococcus.01') CLUSTER: 35 
+PATHWAYS:  <I>myo</I>-inositol degradation I  
+ L-arginine degradation V (arginine deiminase pathway)  
+ L-citrulline degradation  
+ L-malate degradation II  
+ UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)  
+ homolactic fermentation  
+ peptidoglycan biosynthesis II (staphylococci)  
+ sucrose degradation I (sucrose phosphotransferase)  
+ superpathway of demethylmenaquinol-9 biosynthesis  
+ superpathway of menaquinol-7 biosynthesis  
+ superpathway of menaquinol-8 biosynthesis I  
+ superpathway of menaquinol-9 biosynthesis  
+
+('Alcaligenes.01', 'Bradyrhizobium.01') CLUSTER: 23 
+PATHWAYS:  L-proline degradation  
+ L-tryptophan degradation VII (via indole-3-pyruvate)  
+ heme biosynthesis II (anaerobic)  
+
+('Megasphaera.01', 'Peptostreptococcus.01') CLUSTER: 31 
+PATHWAYS:  1,2-propanediol biosynthesis from lactate (engineered)  
+ L-alanine fermentation to propanoate and acetate  
+
+('Pseudomonas.01', 'Ralstonia.01') CLUSTER: 37 
+PATHWAYS:  2,4-dichlorophenoxyacetate  degradation  
+ 4-aminobutanoate degradation III  
+ 4-chloro-2-methylphenoxyacetate degradation  
+ 4-methylcatechol degradation (ortho cleavage)  
+ 5-hydroxymethylfurfural degradation  
+ L-tryptophan degradation I (via anthranilate)  
+ NAD biosynthesis I (from aspartate)  
+ aniline degradation  
+ benzoate degradation I (aerobic)  
+ catechol degradation III (ortho-cleavage pathway)  
+ furfural degradation  
+ gentisate degradation I  
+ heme biosynthesis II (anaerobic)  
+ meta cleavage pathway of aromatic compounds  
+ naphthalene degradation (aerobic)  
+ oxalate degradation III  
+ salicylate degradation II  
+ superpathway of aerobic toluene degradation  
+
+('Flavobacterium.01', 'Methylobacterium.01') CLUSTER: 7 
+PATHWAYS:  oxalate degradation III  
+ tetrahydromethanopterin biosynthesis  
+
+('F.Neisseriaceae.02', 'Neisseria.01') CLUSTER: 42 
+PATHWAYS:  2-methylcitrate cycle II  
+ 3-oxoadipate degradation  
+ CMP-N-acetylneuraminate biosynthesis II (bacteria)  
+ L-arginine biosynthesis II (acetyl cycle)  
+ L-carnitine degradation III  
+ UDP-N,N'-diacetylbacillosamine biosynthesis  
+ benzoate degradation I (aerobic)  
+ biosynthesis of Lewis epitopes (H. pylori)  
+ catechol degradation III (ortho-cleavage pathway)  
+ cyclohexanol degradation  
+ meta cleavage pathway of aromatic compounds  
+ superpathway of CMP-sialic acids biosynthesis  
+
+('Haemophilus.01', 'Neisseria.01') CLUSTER: 42 
+PATHWAYS:  CMP-N-acetylneuraminate biosynthesis II (bacteria)  
+
+('F.Neisseriaceae.02', 'Haemophilus.01') CLUSTER: 42 
+PATHWAYS:  CMP-N-acetylneuraminate biosynthesis II (bacteria)  
+
+('Acinetobacter.01', 'Microbacterium.01') CLUSTER: 36 
+PATHWAYS:  cyclohexanol degradation  
+
+('Eggerthella.01', 'Ruminococcus.01') CLUSTER: 9 
+PATHWAYS:  bile acids degradation  
+
+('Bifidobacterium.01', 'X.Ruminococcus.gauvreauiigroup.01') CLUSTER: 29 
+PATHWAYS:  bile acids degradation  
+
+('Prevotella.01', 'Prevotella.03') CLUSTER: 31 
+PATHWAYS:  L-arginine biosynthesis III (via N-acetyl-L-citrulline)  
+ L-isoleucine biosynthesis V  
+ superpathway of menaquinol-10 biosynthesis  
+ superpathway of menaquinol-11 biosynthesis  
+ superpathway of menaquinol-12 biosynthesis  
+ superpathway of menaquinol-13 biosynthesis  
+ superpathway of menaquinol-7 biosynthesis  
+
+('Prevotella.01', 'Prevotella.04') CLUSTER: 31 
+PATHWAYS:  L-arginine biosynthesis III (via N-acetyl-L-citrulline)  
+ L-isoleucine biosynthesis V  
+ superpathway of menaquinol-10 biosynthesis  
+ superpathway of menaquinol-11 biosynthesis  
+ superpathway of menaquinol-12 biosynthesis  
+ superpathway of menaquinol-13 biosynthesis  
+ superpathway of menaquinol-7 biosynthesis  
+
+('Prevotella.03', 'Prevotella.04') CLUSTER: 31 
+PATHWAYS:  L-arginine biosynthesis III (via N-acetyl-L-citrulline)  
+ L-isoleucine biosynthesis V  
+ superpathway of menaquinol-10 biosynthesis  
+ superpathway of menaquinol-11 biosynthesis  
+ superpathway of menaquinol-12 biosynthesis  
+ superpathway of menaquinol-13 biosynthesis  
+ superpathway of menaquinol-7 biosynthesis  
+
+('Anaerovibrio.01', 'Rhizobium.01') CLUSTER: 0 
+PATHWAYS:  superpathway of L-lysine degradation  
+
+('Corynebacterium.01', 'Fusobacterium.01') CLUSTER: 3 
+PATHWAYS:  L-glutamate degradation V (via hydroxyglutarate)  
+ L-lysine fermentation to acetate and butanoate  
+ L-tryptophan degradation II (via pyruvate)  
+ superpathway of L-lysine degradation  
+
+('F.Neisseriaceae.01', 'Moraxella.01') CLUSTER: 41 
+PATHWAYS:  3-oxoadipate degradation  
+ L-carnitine degradation III  
+ benzoate degradation I (aerobic)  
+ catechol degradation III (ortho-cleavage pathway)  
+ meta cleavage pathway of aromatic compounds  
+
+('Actinomyces.01', 'Prevotella.01') CLUSTER: 31 
+PATHWAYS:  superpathway of menaquinol-10 biosynthesis  
+
+('Actinomyces.01', 'Prevotella.03') CLUSTER: 31 
+PATHWAYS:  superpathway of menaquinol-10 biosynthesis  
+
+('Actinomyces.01', 'Prevotella.04') CLUSTER: 31 
+PATHWAYS:  superpathway of menaquinol-10 biosynthesis  
+
+('Arthrobacter.01', 'Propionibacterium.01') CLUSTER: 6 
+PATHWAYS:  biotin-carboxyl carrier protein assembly  
+ peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing)  
+ phosphatidylinositol biosynthesis I (bacteria)  
+
+('Achromobacter.01', 'Acinetobacter.01') CLUSTER: 36 
+PATHWAYS:  D-galactarate degradation II  
+ D-glucarate degradation II  
+ alcaligin biosynthesis  
+ aniline degradation  
+ bacterial bioluminescence  
+ catechol degradation III (ortho-cleavage pathway)  
+ long chain fatty acid ester synthesis (engineered)  
+ superpathway of microbial D-galacturonate and D-glucuronate degradation  
+
+('Enterobacter.01', 'Rhizobium.01') CLUSTER: 0 
+PATHWAYS:  <I>myo</I>-inositol degradation I  
+ L-tryptophan degradation VII (via indole-3-pyruvate)  
+ autoinducer AI-1 biosynthesis  
+ superpathway of pentose and pentitol degradation  
+
+('Bifidobacterium.01', 'Blautia.01') CLUSTER: 29 
+PATHWAYS:  glycocholate metabolism (bacteria)  
+
+('Haemophilus.01', 'Mycoplasma.01') CLUSTER: 42 
+PATHWAYS:  NAD biosynthesis III  
+
+('C.Actinobacteria.01', 'Streptomyces.01') CLUSTER: 4 
+PATHWAYS:  NAD biosynthesis II (from tryptophan)  
+ NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde  
+
+('Porphyromonas.01', 'Streptococcus.01') CLUSTER: 21 
+PATHWAYS:  superpathway of demethylmenaquinol-9 biosynthesis  
+ superpathway of menaquinol-9 biosynthesis  
+
+('Corynebacterium.02', 'Neisseria.01') CLUSTER: 42 
+PATHWAYS:  3-oxoadipate degradation  
+ L-arginine biosynthesis II (acetyl cycle)  
+ benzoate degradation I (aerobic)  
+
+('Corynebacterium.02', 'F.Neisseriaceae.02') CLUSTER: 42 
+PATHWAYS:  3-oxoadipate degradation  
+ L-arginine biosynthesis II (acetyl cycle)  
+ benzoate degradation I (aerobic)  
+
+('F.Prevotellaceae.01', 'Staphylococcus.01') CLUSTER: 4 
+PATHWAYS:  superpathway of menaquinol-7 biosynthesis  
+
+('Pelomonas.01', 'Pseudomonas.01') CLUSTER: 37 
+PATHWAYS:  L-arabinose degradation III  
+ superpathway of pentose and pentitol degradation  
+
+('F.Caulobacteraceae.01', 'Flavobacterium.01') CLUSTER: 7 
+PATHWAYS:  superpathway of pentose and pentitol degradation  
+
+('Actinobacillus.01', 'Streptococcus.01') CLUSTER: 21 
+PATHWAYS:  NAD salvage pathway III  
+
+('Deinococcus.01', 'Rhizobium.01') CLUSTER: 0 
+PATHWAYS:  superpathway of microbial D-galacturonate and D-glucuronate degradation  
+
+('Corynebacterium.02', 'Mycoplasma.01') CLUSTER: 42 
+PATHWAYS:  biotin-carboxyl carrier protein assembly  
+ mycothiol biosynthesis  
+
+('Dorea.01', 'Ruminococcus.01') CLUSTER: 9 
+PATHWAYS:  thiamine diphosphate biosynthesis III (Staphylococcus)  
+
+('Deinococcus.01', 'Enterobacter.01') CLUSTER: 0 
+PATHWAYS:  superpathway of menaquinol-8 biosynthesis I  
+
+('Nocardioides.01', 'Pseudomonas.01') CLUSTER: 37 
+PATHWAYS:  sitosterol degradation to androstenedione  
+
